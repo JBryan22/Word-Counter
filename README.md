@@ -5,5 +5,5 @@ Specs:
 3. User enters a sentence that contains the word being looked for "Hello how are you?" 1
 4. User enters a sentence that contains multiple uses of the word being looked for "Hello hello hello there" 3
 5. Users enters a word that contains the word being looked for. "Ohhellothere" 1
-6. User enters a sentence that contains words that contain the word being looked for. "Ohhello there." 1
+6. User enters a sentence that contains words that contain the word being looked for. "Hello, how are you?." 1
 

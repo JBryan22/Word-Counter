@@ -1,0 +1,8 @@
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.deps.json
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.runtimeconfig.json
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.runtimeconfig.dev.json
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.dll
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp1.1\WordCounter.pdb
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.AssemblyInfo.cs
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.dll
+C:\Users\Jesse\Desktop\CSharp Epicodus\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp1.1\WordCounter.pdb
