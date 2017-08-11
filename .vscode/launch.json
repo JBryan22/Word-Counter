@@ -42,5 +42,6 @@
             "request": "attach",
             "processId": "${command:pickProcess}"
         }
+        
     ]
 }

@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.StaticFiles;
 
 namespace WordCounter
 {
@@ -23,7 +24,9 @@ namespace WordCounter
         }
 
         public void Configure(IApplicationBuilder app)
-        {   app.UseDeveloperExceptionPage();
+        {
+            app.UseDeveloperExceptionPage();
+            app.UseStaticFiles();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

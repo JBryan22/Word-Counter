@@ -7,13 +7,13 @@ namespace WordCounter.Controllers
 {
     public class HomeController : Controller
     {
-        [HttpGet]
+        [HttpGet("/")]
         public ActionResult Index()
         {
             return View();
         }
 
-        [HttpPost]
+        [HttpPost("/results")]
         public ActionResult Results()
         {
             string userInput = Request.Form["user-input"];
